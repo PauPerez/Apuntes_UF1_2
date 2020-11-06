@@ -53,4 +53,18 @@
     - Disseny de dades
     - Disseny d'interfície
 # Codificació
-- 
+- S'escriu el codi font de cada component
+- Llenguatges utilitzats:
+    - **Llenguatges de programació**: c, c++, Java...
+    - **Llenguatges d'altre tipus**: HTML, XML, JSON...
+# Probes
+- Objectiu: Descobrir defectes del programa forçant-lo
+- Fer-lo pasar per les maximes situacions diferents
+# Manteniment
+- És necessari realitzar canvis ocasionals
+- S'haura de refer part del treball realitzat
+- Tipus:
+    - **Correctiu**: Es corregeixen defectes
+    - **Perfectiu**: Es millora la funcionalitat
+    - **Evolutiu**: S'afegeixen funcionalitats noves
+    - **Adaptatiu**: S'adapta a nous entorns
