@@ -64,7 +64,13 @@
 - És necessari realitzar canvis ocasionals
 - S'haura de refer part del treball realitzat
 - Tipus:
-    - **Correctiu**: Es corregeixen defectes
-    - **Perfectiu**: Es millora la funcionalitat
+    - **Correctiu**: Es corregeixen defectes trobats al projecte
+    - **Perfectiu**: Es canvia una funcionalitat per millorarla
     - **Evolutiu**: S'afegeixen funcionalitats noves
     - **Adaptatiu**: S'adapta a nous entorns
+---
+# Models de desenvolupament de software
+- **Models clàsics**
+    - **Model en cascada**: Amb aquest model no puc pasar al pas dos sense asegurarme 100% de que el pas 1 esta ben fet i acabat, així cada vegada que vull pasar al seguent pas.
+
+    - **Model en V**: Amb aquest model a mesura que faig un pas, vaig comprobant per assegurarme de que està bé i el verifico per assegurarme que és vàlid, amb aquest model és facil adaptarse a diferents entorns.
