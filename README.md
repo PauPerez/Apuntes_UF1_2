@@ -99,6 +99,6 @@
         - Respecte
 ---
 # LLENGUATGES DE PROGRAMACIÓ
-    - **Obtenció de codi executable**: Compilació o interpretació.
-    - **Processos**:
-        - 
+   - **Obtenció de codi executable**: Compilació o interpretació.
+   - **Processos**:
+       - 
