@@ -74,3 +74,15 @@
     - **Model en cascada**: Amb aquest model no puc pasar al pas dos sense asegurarme 100% de que el pas 1 esta ben fet i acabat, així cada vegada que vull pasar al seguent pas.
 
     - **Model en V**: Amb aquest model a mesura que faig un pas, vaig comprobant per assegurarme de que està bé i el verifico per assegurarme que és vàlid, amb aquest model és facil adaptarse a diferents entorns.
+    
+    - **Prototips**: Molt sovint els requeriments no estan especificats clarament, es crea un prototip en la fàse d'analisi i es proba amb l'usuari per arribar a el que vol l'usuari. Es fa tantes vegades com calgui.
+        - Prototips ràpids: Es pot fer com vulgi, només es una referencia per saber com es veuria, no s'aprofita en el futur.
+        - Prototip evolutiu: Aquest prototip s'acaba utilitzant de base per al projecte final, per tant es desenvolupa amb les mateixes eines i llenguatge que aquest.
+    
+    - **Model en espiral**: Reutilitza bastant el codi, cada fase de desenvolupament segueix una sèrie de normes abans de pasar a la seguent i repetir el cicle.
+    
+    - **Metodologíes àgils**: Basades en el desenvolupament de software incremental els requisits i solucions del cual evolucionen amb el temps segons el que necessiti el projecte. Treball realitzat mitjançant la colaboració d'equips autoorganitzats. (Kanban, Scrum, XP).
+        - Interaccions sobre processos i eines.
+        - Documentació exhaustiva.
+        - Negociació contractual amb el client.
+        - Seguir un pla i tenir resposta de cara a canvis.
