@@ -86,3 +86,19 @@
         - Documentació exhaustiva.
         - Negociació contractual amb el client.
         - Seguir un pla i tenir resposta de cara a canvis.
+    - **Scrum**
+        - Model de desenvolupament incremental.
+        - Iteracions regulars.
+        - Al principi d'aquestes s'estableixen les prioritats.
+        - I al final de cada iteració s'obté una entrega parcial utilitzable per el client.
+    - **XP**:
+        - Simplicitat
+        - Comunicació
+        - Retroalimentació
+        - Valentía
+        - Respecte
+---
+# LLENGUATGES DE PROGRAMACIÓ
+    - **Obtenció de codi executable**: Compilació o interpretació.
+    - **Processos**:
+        - 
