@@ -100,5 +100,37 @@
 ---
 # LLENGUATGES DE PROGRAMACIÓ
 - **Obtenció de codi executable**: Compilació o interpretació.
-- **Processos**:
-- 
+- **Processos**: Compilació, Generació del codi objecte, anàlisi lèxic i sintàctic.
+- **Llenguatges compilats**: C, C++
+    - Execucuió molt eficient.
+    - Però es necessari compilar cada vegada que es modifica el codi font.
+- **Llenguatges interpretats**: PHP, JavaScript
+    - El Còdi font es pasa de manera directa.
+    - Però s'executa de manera menys eficient.
+- **JAVA**
+    - Es compila i s'obté el bytecode. (Com codi objecte però destinat a la màquina virtual de java)
+    - Aquest bytecode és el que s'interpreta per executar-lo
+--- 
+# TIPOS
+- **Declaratius**: Indiquem el resultat sense especificar el procés.
+- **Imperatius**: Indiquem els pasos a seguir per obtenir un resultat.
+- **Dificultat dels llenguatges**:
+    - Baix nivell: ensamblador
+    - Mig nivell: C
+    - Alt nivell: C++, Java
+---
+# Evolució
+- Codi binàri
+- Ensamblaor
+- Llenguatge estructurat
+- Llenguatge orientat a objectes
+---
+# CRITERIS PER LA SELECCIÓ D'UN LLENGUATGE
+- Camp d'aplicació
+- Experiencia previa
+- Eines de desenvolupament
+- Documentació disponible
+- Base d'usuaris
+- Reutilabitzilitat
+- Portabilitat
+- Imposició del client
